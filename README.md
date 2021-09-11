@@ -39,6 +39,8 @@ The dataset comes from the Global Health Observatory (GHO) data repository under
 ## Lessons Learned
 I learned how to apply PCA and build a machine learning regression model during working on this project.
 
+![image](https://user-images.githubusercontent.com/86415241/132958651-76e9ac89-e252-4763-b297-dafdc85e818d.png)
+
 
 
   
