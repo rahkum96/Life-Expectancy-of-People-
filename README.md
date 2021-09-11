@@ -1,3 +1,4 @@
+![image](https://user-images.githubusercontent.com/86415241/132958690-fddccdda-3a77-4b8d-a19a-0606b913c3c9.png)
 
 # Life Expectancy of People 
 
@@ -7,7 +8,7 @@ The dataset comes from the Global Health Observatory (GHO) data repository under
 
 ## Objective
 
- In this case study we’re provided average life expectancy of people of 193 Countries. We have to predict next year value using linear regression.
+ ![image](https://user-images.githubusercontent.com/86415241/132958707-427d513c-6cb9-4ec3-9040-9315da34f376.png)
   
 ##  Approach
 
@@ -34,12 +35,41 @@ The dataset comes from the Global Health Observatory (GHO) data repository under
 - PCA is sensitive to the scale of the features.
 - PCA assumes a linear relationship between features
 
+## Univariate Analysis
+
+![image](https://user-images.githubusercontent.com/86415241/132958735-b789e518-6eff-4503-997c-b5d51f69597a.png)
+
+![image](https://user-images.githubusercontent.com/86415241/132958737-e1c71155-46c2-41bc-ba2f-edfba9b40edf.png)
+
+![image](https://user-images.githubusercontent.com/86415241/132958747-d6692dc9-efee-4467-a419-73b7dd11079c.png)
+
+
+## Bivariate Analysis
+
+![image](https://user-images.githubusercontent.com/86415241/132958768-02c46a90-8567-40e9-8158-94b0a2a2aa60.png)
+
+![image](https://user-images.githubusercontent.com/86415241/132958773-7d178d85-b7c2-493b-ab37-87eab64056d7.png)
+
+![image](https://user-images.githubusercontent.com/86415241/132958789-13e17a94-37c9-4d5c-8056-cf9ba5e2aa68.png)
+
+
+## Regression Model
+
+![image](https://user-images.githubusercontent.com/86415241/132958813-a810d442-2b98-4c26-9972-26a8c3b26c36.png)
+
+
+## Prediction Result
+
+![image](https://user-images.githubusercontent.com/86415241/132958830-45809302-e729-48ca-8d60-e8d0cda7de17.png)
+
+
+
 
   
 ## Lessons Learned
 I learned how to apply PCA and build a machine learning regression model during working on this project.
 
-![image](https://user-images.githubusercontent.com/86415241/132958651-76e9ac89-e252-4763-b297-dafdc85e818d.png)
+
 
 
 
