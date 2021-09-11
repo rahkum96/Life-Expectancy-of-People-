@@ -25,7 +25,7 @@ The dataset comes from the Global Health Observatory (GHO) data repository under
 
 
   
-## Why we Used PCA and assumptions ?
+## Why we Used PCA and their assumptions ?
 - In our data set there are more feature.  So PCA is used to overcome features redundancy in a data set.
 - These features are low dimensional in nature.
 - These components aim to capture as much information as possible with high explained variance.
